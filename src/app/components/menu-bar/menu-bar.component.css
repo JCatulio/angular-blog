@@ -1,0 +1,13 @@
+.container__menu-bar {
+  margin-top: 1.5rem;
+}
+
+.container__menu-bar > ul {
+  display: flex;
+}
+
+.container__menu-bar > ul > li {
+  font-size: 1.6rem;
+  list-style: none;
+  margin-right: 1rem;
+}
